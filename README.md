@@ -14,4 +14,4 @@ Please see the [Restaurateur](https://www.github.com/AndrewFlook/restaurateur) r
 
 Copyright © Andrew Flook
 
-ttnp is open-sourced software licensed under the [MIT license](LICENSE.md).
+ttnp is open-sourced software licensed under the [MIT license](LICENSE).
